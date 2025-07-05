@@ -1,0 +1,7 @@
+v 1.0
+d Materials by James W. Hardin, Taylor A. Hardin, Conner D. Hardin
+d jameshardin@sc.rr.com
+
+d 'gmss': Generalized Model Specification System
+
+p gmss

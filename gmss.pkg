@@ -1,0 +1,15 @@
+v 1.0
+d 'GMSS': gmss
+d 
+d Generalized Model Specification System
+d 
+d Distribution-Date:   20250705
+d License: Do What The F*ck You Want To Public License
+d 
+F GMSS_estat.ado
+F GMSS_pred.ado
+F gmss.ado
+F gmss.sthlp
+F gmss2stage.ado
+F gmssutil.ado
+F lgmss.mlib
