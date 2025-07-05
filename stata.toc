@@ -1,4 +1,4 @@
-v 1.0
+v 3  
 d Materials by James W. Hardin, Taylor A. Hardin, Conner D. Hardin
 d jameshardin@sc.rr.com
 
