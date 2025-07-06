@@ -1,6 +1,8 @@
-v 3  
+v 1.0.0
 d Materials by James W. Hardin, Taylor A. Hardin, Conner D. Hardin
 d jameshardin@sc.rr.com
+d https://github.com/BstatDoc/gmss
+d https://youtube.com/@BiostatDoc
 
 d 'gmss': Generalized Model Specification System
 

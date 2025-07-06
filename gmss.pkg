@@ -1,14 +1,13 @@
-v 3  
-d 'GMSS': gmss
+v 1.0.0
+d 'GMSS': generalized model specification system
 d 
-d Generalized Model Specification System
 d GMSS is a mata library of distributions, links, and utility functions.  The library 
 d serves several Stata commands which are used to estimate regression models while 
 d allowing users access to Stata's optimization options. 
-d keywords: gmss, murphy, topel, regression, gmss2stage
 d 
-d Distribution-Date:   20250705
-d License: Do What The F*ck You Want To Public License
+d Keywords:           gmss, murphy, topel, regression, gmss2stage
+d Distribution-Date:  20250705
+d License:            MIT
 d 
 F GMSS_estat.ado
 F GMSS_pred.ado
